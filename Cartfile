@@ -1,1 +1,2 @@
-github "mxcl/PromiseKit" ~> 4.0.5
+#github "mxcl/PromiseKit" ~> 4.0.5
+github "RustyKnight/PromiseKit" ~> 4.1
